@@ -1,0 +1,5 @@
+2025-01-01 10:00:00 INFO Application started
+2025-01-01 10:05:00 ERROR Database connection failed
+2025-01-01 10:10:00 INFO User login successful
+2025-01-01 10:15:00 WARNING Disk space running low
+2025-01-01 10:20:00 ERROR Timeout occurred
